@@ -30,6 +30,7 @@
     "test": "jest --verbose --coverage",
     "test:watch": "yarn test --watch",
     "start-storybook": "start-storybook",
-    "build-storybook": "build-storybook"
+    "build-storybook": "build-storybook",
+    "chromatic": "chromatic --project-token=258d0f2e289d"
   }
 }
