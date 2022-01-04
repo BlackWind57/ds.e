@@ -18,29 +18,42 @@ Trace:
 
 npm manifest: 
   {
-    "name": "@bw57/core",
+    "name": "@bw57/scss",
     "version": "1.0.0",
     "main": "index.js",
-    "author": "Cristoforus Darryl <cristoforus.darrylw@medirecords.com>",
     "license": "MIT",
-    "devDependencies": {
-      "lerna": "^4.0.0"
+    "dependencies": {
+      "normalize-scss": "^7.0.1"
     },
-    "private": true,
-    "workspaces": {
-      "packages": [
-        "packages/*",
-        "playgrounds/*"
-      ],
-      "nohoist": [
-        "**/normalize-scss"
-      ]
+    "devDependencies": {
+      "husky": "4.2.5",
+      "lint-staged": "^12.1.4",
+      "node-sass": "^7.0.0",
+      "nodemon": "^2.0.15",
+      "prettier": "^2.5.1",
+      "stylelint": "^14.2.0",
+      "stylelint-config-prettier": "^9.0.3",
+      "stylelint-config-sass-guidelines": "^9.0.1",
+      "stylelint-prettier": "^2.0.0"
     },
     "scripts": {
-      "build": "yarn lerna run build",
-      "dev": "yarn lerna run dev",
-      "test": "yarn lerna run test"
-    }
+      "lint": "stylelint ./**/*.scss",
+      "lint:fix": "yarn lint --fix",
+      "build": "node src/scripts/build.js",
+      "dev": "nodemon --watch src --exec yarn build -e scss"
+    },
+    "husky": {
+      "hooks": {
+        "pre-commit": "lint-staged"
+      }
+    },
+    "lint-staged": {
+      "*.scss": "yarn lint:fix"
+    },
+    "publishConfig": {
+      "access": "public"
+    },
+    "gitHead": "71bdb08caba2d6057147b4a3997e883a04f94c6d"
   }
 
 yarn manifest: 
