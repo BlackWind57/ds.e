@@ -20,6 +20,11 @@ $body-font-size: var(--dse-body-font-size, $fs-sm) !default;
 $body-font-weight: var(--dse-body-font-weight, $fw-normal) !default;
 
 /*=============================================
+=            Body font style                  =
+=============================================*/
+$body-font-style: var(--dse-body-font-style, $fw-normal) !default;
+
+/*=============================================
 =            Heading font sizes               =
 =============================================*/
 
