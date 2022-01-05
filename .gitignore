@@ -1,9 +1,9 @@
 node_modules
 lib
 dist
-coverage
 .cache
 build-storybook.log
 storybook-static
 lib/*
-coverage/*
+/coverage.data
+/coverage/
