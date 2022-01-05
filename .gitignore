@@ -5,3 +5,4 @@ coverage
 .cache
 build-storybook.log
 storybook-static
+lib/*
