@@ -3,7 +3,7 @@ import { FontSize } from '@bw57/foundation'
 
 
 
-interface TextProps {
+export interface TextProps {
     size? : keyof typeof FontSize
 }
 

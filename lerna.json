@@ -6,5 +6,10 @@
   "version": "1.0.2",
   "npmClient": "yarn",
   "useWorkspaces": true,
-  "stream": true
+  "stream": true,
+  "command": {
+    "publish": {
+      "conventionalCommits": true
+    }
+  }
 }

@@ -2,7 +2,7 @@ import React from 'react'
 
 import { Spacing } from '@bw57/foundation'
 
-interface MarginProps {
+export interface MarginProps {
     space?: keyof typeof Spacing,
     left?: boolean,
     right?: boolean,
