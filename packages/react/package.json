@@ -7,6 +7,7 @@
     "lib"
   ],
   "devDependencies": {
+    "@bw57/foundation": "1.0.3",
     "@babel/preset-env": "^7.16.5",
     "@babel/preset-react": "^7.16.5",
     "@storybook/addon-a11y": "^6.4.9",
