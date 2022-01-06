@@ -24,8 +24,8 @@ jobs:
           npm config set //npm.pkg.github.com/:_authToken ${{ secrets.GH_PACKAGE_TOKEN }}   
           npm config set @BlackWind57:ds.e https://npm.pkg.github.com
           npm set email blackwind757@gmail.com
-          git config user.email blackwind757@gmail.com
-          git config user.name Black Wind
+          git --global config user.email blackwind757@gmail.com
+          git --global config user.name Black Wind
       - name: Build Packages
         run: yarn build
       - name: Running Automated Tests
