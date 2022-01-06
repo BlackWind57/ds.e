@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.8](https://github.com/BlackWind57/ds.e/compare/v1.0.7...v1.0.8) (2022-01-06)
+
+
+### Bug Fixes
+
+* need space ([606b8f4](https://github.com/BlackWind57/ds.e/commit/606b8f42b2d6304f03a07fd0d3590d5ccbd4943c))
+
+
+
+
+
 ## [1.0.7](https://github.com/BlackWind57/ds.e/compare/v1.0.6...v1.0.7) (2022-01-06)
 
 **Note:** Version bump only for package @bw57/core
