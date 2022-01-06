@@ -12,15 +12,18 @@ jobs:
   job1: 
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
+      - name: Use Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14.x'
       - name: Checkout Repository
         uses: actions/checkout@v2
         with:
           fetch-depth: 0
           token: ${{ secrets.ADMIN_TOKEN }}
-      - name: Use Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: '14.x'
+      - name: Install Yarn
+        run: npm install -g yarn
       - name: Add NPM & Github Credentials
         run:
           npm config set always-auth true
@@ -31,7 +34,8 @@ jobs:
           git config --global user.name "Darryl"
       - name: Checkout git and pull branch
         run:
-          git checkout $GITHUB_HEAD_REF && git pull
+          git remote set-branches origin '*'
+          git fetch
       - name: Install dependencies
         run: yarn
       - name: Build Packages
