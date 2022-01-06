@@ -36,7 +36,12 @@
     "*.scss": "yarn lint:fix"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackWind57/scss.git"
   },
   "gitHead": "71bdb08caba2d6057147b4a3997e883a04f94c6d"
 }

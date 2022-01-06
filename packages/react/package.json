@@ -38,7 +38,12 @@
     "test:chromatic": "chromatic --project-token=\"$CHROMATIC_PROJECT_TOKEN\""
   },
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackWind57/react.git"
   },
   "gitHead": "71bdb08caba2d6057147b4a3997e883a04f94c6d"
 }
