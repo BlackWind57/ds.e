@@ -38,4 +38,4 @@ jobs:
         run: yarn test:chromatic
       - name: Publishing to Github Package
         run:
-          git config --list && yarn run publish
+          git config --list && npm whoami && yarn run publish
