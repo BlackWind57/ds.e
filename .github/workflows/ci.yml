@@ -34,7 +34,8 @@ jobs:
           git config --global user.name "Darryl"
       - name: Checkout git and pull branch
         run:
-          git remote add origin git@github.com:BlackWind57/ds.e.git
+          git remote set-branches origin '*'
+          git remote -v
           git fetch
       - name: Install dependencies
         run: yarn
