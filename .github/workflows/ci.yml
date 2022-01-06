@@ -25,7 +25,8 @@ jobs:
       - name: Install Yarn
         run: npm install -g yarn
       - name: Add NPM & Github Credentials
-        env: GH_PACKAGE_TOKEN: ${{ secrets.GH_PACKAGE_TOKEN }}
+        env: 
+          GH_PACKAGE_TOKEN: ${{ secrets.GH_PACKAGE_TOKEN }}
         run: bash bash/npm-set.sh
       - name: Install dependencies
         run: yarn
