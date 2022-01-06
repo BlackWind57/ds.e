@@ -34,7 +34,6 @@ jobs:
           git config --global user.name "Darryl"
       - name: Checkout git and pull branch
         run:
-          git remote rm origin
           git remote add origin git@github.com:BlackWind57/ds.e.git
           git fetch
       - name: Install dependencies
