@@ -34,7 +34,8 @@ jobs:
           git config --global user.name "Darryl"
       - name: Checkout git and pull branch
         run:
-          git remote set-branches origin '*'
+          git remote rm origin
+          git remote add origin git@github.com:BlackWind57/ds.e.git
           git fetch
       - name: Install dependencies
         run: yarn
@@ -47,4 +48,7 @@ jobs:
           CHROMATIC_PROJECT_TOKEN: ${{ secrets.CHROMATIC_PROJECT_TOKEN }}
         run: yarn test:chromatic
       - name: Publishing to Github Package
+        env:
+
         run: yarn run publish
+        
