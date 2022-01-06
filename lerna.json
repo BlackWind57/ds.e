@@ -9,6 +9,8 @@
   "stream": true,
   "command": {
     "publish": {
+      "message": "chore(master): publish",
+      "registry": "https://npm.pkg.github.com",
       "conventionalCommits": true
     }
   }
