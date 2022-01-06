@@ -9,7 +9,7 @@ on:
       - master
 
 jobs: 
-  job1: 
+  build: 
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -46,4 +46,4 @@ jobs:
         run: yarn test:chromatic
       - name: Publishing to Github Package
         run:
-          git config --global user.email "cristo1494@yahoo.com" && git config --global user.name "Darryl" && yarn run publish
+          git checkout $GITHUB_HEAD_REF && yarn run publish
