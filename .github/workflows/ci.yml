@@ -46,7 +46,4 @@ jobs:
         run: yarn test:chromatic
       - name: Publishing to Github Package
         run:
-          git config --global user.email "cristo1494@yahoo.com"
-          git config --global user.name "Darryl" 
-          yarn run publish
-        
+          git config --global user.email "cristo1494@yahoo.com" && git config --global user.name "Darryl" && yarn run publish
