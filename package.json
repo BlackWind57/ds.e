@@ -26,7 +26,7 @@
     "build": "yarn lerna run build",
     "dev": "yarn lerna run dev",
     "test": "yarn lerna run test",
-    "publish": "yarn lerna publish --conventional-commits --yes --no-private",
+    "publish": "yarn lerna publish --yes --no-private",
     "commit": "yarn git-cz",
     "test:chromatic": "yarn lerna run test:chromatic",
     "build:storybook": "yarn build && yarn lerna run build-storybook"
