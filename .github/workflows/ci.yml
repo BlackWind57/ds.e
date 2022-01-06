@@ -23,8 +23,8 @@ jobs:
           npm config set //npm.pkg.github.com/:_authToken ${{ secrets.GH_PACKAGE_TOKEN }}   
           npm config set @BlackWind57:ds.e https://npm.pkg.github.com
           npm set email blackwind757@gmail.com
-          git config user.email "blackwind757@gmail.com"
-          git config user.name "Black Wind"
+          git config --global user.email "blackwind757@gmail.com"
+          git config --global user.name "Black Wind"
       - name: Checkout git and pull branch
         run:
           echo $GITHUB_HEAD_REF
