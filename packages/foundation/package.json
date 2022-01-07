@@ -1,6 +1,6 @@
 {
   "name": "@blackwind57/foundation",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "main": "lib/index.js",
   "license": "MIT",
   "files": [

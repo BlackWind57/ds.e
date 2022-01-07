@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.19](https://github.com/blackwind57/foundation/compare/v1.0.18...v1.0.19) (2022-01-07)
+
+
+### Bug Fixes
+
+* update ([0a6e61b](https://github.com/blackwind57/foundation/commit/0a6e61b8889edbbc4444c4b47bb87689c43f9c1f))
+
+
+
+
+
 ## [1.0.18](https://github.com/BlackWind57/foundation/compare/v1.0.17...v1.0.18) (2022-01-07)
 
 
