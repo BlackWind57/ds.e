@@ -5,7 +5,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## [1.0.8](https://github.com/BlackWind57/ds.e/compare/v1.0.7...v1.0.8) (2022-01-06)
 
-**Note:** Version bump only for package @bw57/react
+**Note:** Version bump only for package @BlackWind57/react
 
 
 
@@ -13,7 +13,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## [1.0.7](https://github.com/BlackWind57/ds.e/compare/v1.0.6...v1.0.7) (2022-01-06)
 
-**Note:** Version bump only for package @bw57/react
+**Note:** Version bump only for package @BlackWind57/react
 
 
 
@@ -21,7 +21,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## [1.0.6](https://github.com/BlackWind57/ds.e/compare/v1.0.5...v1.0.6) (2022-01-06)
 
-**Note:** Version bump only for package @bw57/react
+**Note:** Version bump only for package @BlackWind57/react
 
 
 
@@ -29,7 +29,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## [1.0.5](https://github.com/BlackWind57/ds.e/compare/v1.0.4...v1.0.5) (2022-01-06)
 
-**Note:** Version bump only for package @bw57/react
+**Note:** Version bump only for package @BlackWind57/react
 
 
 

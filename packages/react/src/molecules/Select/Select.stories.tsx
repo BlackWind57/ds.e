@@ -4,7 +4,7 @@ import Select from './Select'
 
 import { withA11y } from '@storybook/addon-a11y' 
 
-import '@bw57/scss/lib/Select.css'
+import '@BlackWind57/scss/lib/Select.css'
 
 const options = [{
     label: 'Strict Black',

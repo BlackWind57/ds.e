@@ -4,9 +4,9 @@ import Color from './Color'
 
 import { text, select } from '@storybook/addon-knobs'
 
-import { Spacing } from '@bw57/foundation'
+import { Spacing } from '@BlackWind57/foundation'
 
-import '@bw57/scss/lib/Utilities.css'
+import '@BlackWind57/scss/lib/Utilities.css'
 
 export default {
     title: 'Atoms/Color'

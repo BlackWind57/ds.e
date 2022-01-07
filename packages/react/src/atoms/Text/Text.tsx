@@ -1,5 +1,5 @@
 import React from "react"
-import { FontSize } from '@bw57/foundation'
+import { FontSize } from '@BlackWind57/foundation'
 
 
 

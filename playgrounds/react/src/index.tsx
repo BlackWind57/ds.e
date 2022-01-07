@@ -1,12 +1,12 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import { Color, Text, Margin, Select } from '@bw57/react'
+import { Color, Text, Margin, Select } from '@BlackWind57/react'
 
-import '@bw57/scss/lib/Utilities.css'
-import '@bw57/scss/lib/Text.css'
-import '@bw57/scss/lib/Margin.css'
-import '@bw57/scss/lib/Select.css'
-import '@bw57/scss/lib/global.css'
+import '@BlackWind57/scss/lib/Utilities.css'
+import '@BlackWind57/scss/lib/Text.css'
+import '@BlackWind57/scss/lib/Margin.css'
+import '@BlackWind57/scss/lib/Select.css'
+import '@BlackWind57/scss/lib/global.css'
 
 const options = [{
     label: 'Strict Black',

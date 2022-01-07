@@ -18,7 +18,7 @@ Trace:
 
 npm manifest: 
   {
-    "name": "@bw57/core",
+    "name": "@BlackWind57/core",
     "version": "1.0.0",
     "main": "index.js",
     "author": "Cristoforus Darryl <cristoforus.darrylw@medirecords.com>",

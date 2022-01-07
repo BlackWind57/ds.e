@@ -18,7 +18,7 @@ Trace:
 
 npm manifest: 
   {
-    "name": "@bw57/scss",
+    "name": "@BlackWind57/scss",
     "version": "1.0.0",
     "main": "index.js",
     "license": "MIT",

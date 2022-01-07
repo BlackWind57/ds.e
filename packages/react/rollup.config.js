@@ -15,5 +15,5 @@ export default {
     },
     plugins: [Ts()],
     preserveModules: true,
-    external: ['react', '@bw57/foundation']
+    external: ['react', '@BlackWind57/foundation']
 }
