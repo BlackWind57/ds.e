@@ -1,5 +1,5 @@
 {
-  "name": "@blackwind57/react",
+  "name": "react",
   "version": "1.0.21",
   "main": "lib/index.js",
   "license": "MIT",
@@ -45,5 +45,5 @@
     "type": "git",
     "url": "git+https://github.com/blackwind57/react.git"
   },
-  "gitHead": "45981a2a5db9b9443ef7dee03aebacd69ea05ce1"
+  "gitHead": "835822ef671f95063354e9e959a9682f0eee4456"
 }
