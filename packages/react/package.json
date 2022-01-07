@@ -1,15 +1,15 @@
 {
   "name": "@BlackWind57/react",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "main": "lib/index.js",
   "license": "MIT",
   "files": [
     "lib"
   ],
   "devDependencies": {
+    "@BlackWind57/foundation": "^1.0.10",
     "@babel/preset-env": "^7.16.5",
     "@babel/preset-react": "^7.16.5",
-    "@BlackWind57/foundation": "1.0.9",
     "@storybook/addon-a11y": "^6.4.9",
     "@storybook/addon-knobs": "^6.4.0",
     "@storybook/addon-storysource": "^6.4.9",
