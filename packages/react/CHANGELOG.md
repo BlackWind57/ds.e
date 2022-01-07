@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.23](https://github.com/blackwind57/react/compare/v1.0.22...v1.0.23) (2022-01-07)
+
+
+### Bug Fixes
+
+* update ([597f806](https://github.com/blackwind57/react/commit/597f806f4efed646a166f08498a11c69708f0bc5))
+
+
+
+
+
 ## [1.0.22](https://github.com/blackwind57/react/compare/v1.0.21...v1.0.22) (2022-01-07)
 
 **Note:** Version bump only for package react
