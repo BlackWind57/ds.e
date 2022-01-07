@@ -1,5 +1,5 @@
 {
-  "name": "@BlackWind57/react",
+  "name": "@blackwind57/react",
   "version": "1.0.13",
   "main": "lib/index.js",
   "license": "MIT",
@@ -7,7 +7,7 @@
     "lib"
   ],
   "devDependencies": {
-    "@BlackWind57/foundation": "^1.0.10",
+    "@blackwind57/foundation": "^1.0.10",
     "@babel/preset-env": "^7.16.5",
     "@babel/preset-react": "^7.16.5",
     "@storybook/addon-a11y": "^6.4.9",
@@ -45,5 +45,5 @@
     "type": "git",
     "url": "git+https://github.com/BlackWind57/react.git"
   },
-  "gitHead": "71bdb08caba2d6057147b4a3997e883a04f94c6d"
+  "gitHead": "532fc7c62a3fcd23c5edf362b3f8e3bdded106e1"
 }

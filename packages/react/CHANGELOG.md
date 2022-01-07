@@ -5,7 +5,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## [1.0.13](https://github.com/BlackWind57/react/compare/v1.0.11...v1.0.13) (2022-01-07)
 
-**Note:** Version bump only for package @BlackWind57/react
+**Note:** Version bump only for package @blackwind57/react
 
 
 
@@ -13,7 +13,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## [1.0.12](https://github.com/BlackWind57/react/compare/v1.0.11...v1.0.12) (2022-01-07)
 
-**Note:** Version bump only for package @BlackWind57/react
+**Note:** Version bump only for package @blackwind57/react
 
 
 
@@ -21,7 +21,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## [1.0.11](https://github.com/BlackWind57/react/compare/v1.0.10...v1.0.11) (2022-01-07)
 
-**Note:** Version bump only for package @BlackWind57/react
+**Note:** Version bump only for package @blackwind57/react
 
 
 
@@ -49,7 +49,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## [1.0.8](https://github.com/BlackWind57/ds.e/compare/v1.0.7...v1.0.8) (2022-01-06)
 
-**Note:** Version bump only for package @BlackWind57/react
+**Note:** Version bump only for package @blackwind57/react
 
 
 
@@ -57,7 +57,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## [1.0.7](https://github.com/BlackWind57/ds.e/compare/v1.0.6...v1.0.7) (2022-01-06)
 
-**Note:** Version bump only for package @BlackWind57/react
+**Note:** Version bump only for package @blackwind57/react
 
 
 
@@ -65,7 +65,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## [1.0.6](https://github.com/BlackWind57/ds.e/compare/v1.0.5...v1.0.6) (2022-01-06)
 
-**Note:** Version bump only for package @BlackWind57/react
+**Note:** Version bump only for package @blackwind57/react
 
 
 
@@ -73,7 +73,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## [1.0.5](https://github.com/BlackWind57/ds.e/compare/v1.0.4...v1.0.5) (2022-01-06)
 
-**Note:** Version bump only for package @BlackWind57/react
+**Note:** Version bump only for package @blackwind57/react
 
 
 
