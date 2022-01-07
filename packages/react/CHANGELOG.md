@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.17](https://github.com/BlackWind57/react/compare/v1.0.16...v1.0.17) (2022-01-07)
+
+
+### Bug Fixes
+
+* update PAT ([d1f642b](https://github.com/BlackWind57/react/commit/d1f642bd77504c09b339ce1cf1f1c73e5bd0faae))
+
+
+
+
+
 ## [1.0.16](https://github.com/BlackWind57/react/compare/v1.0.15...v1.0.16) (2022-01-07)
 
 
