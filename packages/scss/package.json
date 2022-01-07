@@ -37,11 +37,11 @@
   },
   "publishConfig": {
     "access": "public",
-    "registry": "https://npm.pkg.github.com/blackwind57"
+    "registry": "https://npm.pkg.github.com"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/blackwind57/scss.git"
   },
-  "gitHead": "98cdd92543265c99d832ba9ecc782012b97adc17"
+  "gitHead": "45981a2a5db9b9443ef7dee03aebacd69ea05ce1"
 }
