@@ -1,5 +1,5 @@
 {
-  "name": "scss",
+  "name": "@blackwind57/scss",
   "version": "1.0.25",
   "main": "index.js",
   "license": "MIT",
@@ -37,11 +37,11 @@
   },
   "publishConfig": {
     "access": "public",
-    "registry": "https://npm.pkg.github.com/@blackwind57"
+    "registry": "https://npm.pkg.github.com"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/blackwind57/scss.git"
   },
-  "gitHead": "740f2bf111a1e47c18f4aa31313a4f3a17407620"
+  "gitHead": "71f30f12ed8114a326040cd4897cc9b7da3ac6a9"
 }
