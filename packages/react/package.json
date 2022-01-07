@@ -39,11 +39,11 @@
   },
   "publishConfig": {
     "access": "public",
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com/blackwind57"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BlackWind57/react.git"
+    "url": "git+https://github.com/blackwind57/react.git"
   },
-  "gitHead": "686bacd073ef10e5359875518a186a700fc3fd8a"
+  "gitHead": "98cdd92543265c99d832ba9ecc782012b97adc17"
 }
