@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.27](https://github.com/blackwind57/scss/compare/v1.0.26...v1.0.27) (2022-01-07)
+
+
+### Bug Fixes
+
+* update ([40512a6](https://github.com/blackwind57/scss/commit/40512a645e27ad1f6a838ae093f9813a5aa7263d))
+
+
+
+
+
 ## [1.0.26](https://github.com/blackwind57/scss/compare/v1.0.25...v1.0.26) (2022-01-07)
 
 
