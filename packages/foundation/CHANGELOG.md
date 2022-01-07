@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.16](https://github.com/BlackWind57/foundation/compare/v1.0.15...v1.0.16) (2022-01-07)
+
+
+### Bug Fixes
+
+* add proper PAT ([3a99ea0](https://github.com/BlackWind57/foundation/commit/3a99ea063a302079cfab8a9b078bddf53dcd8061))
+
+
+
+
+
 ## [1.0.15](https://github.com/BlackWind57/foundation/compare/v1.0.14...v1.0.15) (2022-01-07)
 
 
