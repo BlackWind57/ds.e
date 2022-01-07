@@ -1,6 +1,6 @@
 {
   "name": "@blackwind57/react",
-  "version": "1.0.19",
+  "version": "1.0.20",
   "main": "lib/index.js",
   "license": "MIT",
   "files": [
@@ -9,7 +9,7 @@
   "devDependencies": {
     "@babel/preset-env": "^7.16.5",
     "@babel/preset-react": "^7.16.5",
-    "@blackwind57/foundation": "^1.0.19",
+    "@blackwind57/foundation": "^1.0.20",
     "@storybook/addon-a11y": "^6.4.9",
     "@storybook/addon-knobs": "^6.4.0",
     "@storybook/addon-storysource": "^6.4.9",

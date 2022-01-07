@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.20](https://github.com/BlackWind57/ds.e/compare/v1.0.18...v1.0.20) (2022-01-07)
+
+
+### Bug Fixes
+
+* increment version ([fa2a352](https://github.com/BlackWind57/ds.e/commit/fa2a35265b2a99aa6d6ec6e868092ddaf5fbd99d))
+* update ([0a6e61b](https://github.com/BlackWind57/ds.e/commit/0a6e61b8889edbbc4444c4b47bb87689c43f9c1f))
+* update auth token ([1a82853](https://github.com/BlackWind57/ds.e/commit/1a8285386c5dd2e4a72c32b8492a7aa5ffe68751))
+
+
+
+
+
 ## [1.0.18](https://github.com/BlackWind57/ds.e/compare/v1.0.17...v1.0.18) (2022-01-07)
 
 
