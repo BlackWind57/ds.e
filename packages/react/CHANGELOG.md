@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.32](https://github.com/blackwind57/ds.e/compare/v1.0.31...v1.0.32) (2022-01-07)
+
+
+### Bug Fixes
+
+* correcting git repo ([e537494](https://github.com/blackwind57/ds.e/commit/e537494736b87ac77465168493109fd9608bff18))
+
+
+
+
+
 ## [1.0.31](https://github.com/blackwind57/react/compare/v1.0.30...v1.0.31) (2022-01-07)
 
 **Note:** Version bump only for package @blackwind57/react
