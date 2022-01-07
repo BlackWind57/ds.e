@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.18](https://github.com/BlackWind57/react/compare/v1.0.17...v1.0.18) (2022-01-07)
+
+
+### Bug Fixes
+
+* update owner in npmrc ([bcc6c53](https://github.com/BlackWind57/react/commit/bcc6c5374617e388352f945f78da0bb0db0c4533))
+
+
+
+
+
 ## [1.0.17](https://github.com/BlackWind57/react/compare/v1.0.16...v1.0.17) (2022-01-07)
 
 
