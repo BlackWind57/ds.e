@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.14](https://github.com/BlackWind57/ds.e/compare/v1.0.13...v1.0.14) (2022-01-07)
+
+
+### Bug Fixes
+
+* update owner to be lowercase ([fcb56db](https://github.com/BlackWind57/ds.e/commit/fcb56db243da1b1943ba3282750c3c7f52cb7902))
+
+
+
+
+
+
 ## [1.0.13](https://github.com/BlackWind57/ds.e/compare/v1.0.11...v1.0.13) (2022-01-07)
 
 **Note:** Version bump only for package @blackwind57/core
