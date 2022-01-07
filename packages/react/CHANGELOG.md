@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.30](https://github.com/blackwind57/react/compare/v1.0.29...v1.0.30) (2022-01-07)
+
+
+### Bug Fixes
+
+* update ([99da249](https://github.com/blackwind57/react/commit/99da2498746cb42d651ca49702f6c9f2259b6b6b))
+
+
+
+
+
 ## [1.0.29](https://github.com/blackwind57/react/compare/v1.0.28...v1.0.29) (2022-01-07)
 
 
