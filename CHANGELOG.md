@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.21](https://github.com/BlackWind57/ds.e/compare/v1.0.20...v1.0.21) (2022-01-07)
+
+
+### Bug Fixes
+
+* increment version ([beb07cb](https://github.com/BlackWind57/ds.e/commit/beb07cbc5f3977f866969d3e81b683a98102ff1b))
+
+
+
+
+
 ## [1.0.20](https://github.com/BlackWind57/ds.e/compare/v1.0.18...v1.0.20) (2022-01-07)
 
 
