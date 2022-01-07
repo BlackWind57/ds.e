@@ -1,6 +1,6 @@
 {
   "name": "foundation",
-  "version": "1.0.22",
+  "version": "1.0.21",
   "main": "lib/index.js",
   "license": "MIT",
   "files": [
@@ -20,7 +20,7 @@
   },
   "publishConfig": {
     "access": "public",
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com/@blackwind57"
   },
   "repository": {
     "type": "git",
